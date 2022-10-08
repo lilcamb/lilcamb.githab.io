@@ -1,0 +1,38 @@
+p{
+			color:red;
+			font-size: 32px;
+			font-family: 'Noto Serif HK', serif;
+		}
+		span{
+		background-color:#cc181e;
+		font-family:"qwerty";
+	}
+			@font-face{ 
+		font-family:"qwerty";
+		src: url("font/Volja.otf");
+
+		}
+	
+		h1{
+			font-size: 55px;
+			font-family: 'IBM Plex Mono', monospace;
+}
+div{
+
+}
+
+a:hover{
+  	
+  
+
+
+
+
+
+
+
+
+
+
+
+
